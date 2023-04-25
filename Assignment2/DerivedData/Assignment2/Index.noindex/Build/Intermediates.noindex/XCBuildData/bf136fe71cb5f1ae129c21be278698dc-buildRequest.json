@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "17b4ee6dc9dce1215237ad5cfe9ff541ab6bd6ec3be42719a33abecbe1a92406"
+    }
+  ],
+  "containerPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/Assignment2.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/DerivedData/Assignment2/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/DerivedData/Assignment2/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/DerivedData/Assignment2/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/DerivedData/Assignment2/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/DerivedData/Assignment2/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment2/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

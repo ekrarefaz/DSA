@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "dad41c49eb3f19ef4ca90b72cb9b01a23be6499388786fd1cb08c611db9c453d"
+    }
+  ],
+  "containerPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/Assignment1.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/Build/Products",
+      "derivedDataPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/DerivedData/Assignment1/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/DerivedData/Assignment1/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Assignment1/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "CLANG_STATIC_ANALYZER_MODE" : "$(CLANG_STATIC_ANALYZER_MODE_ON_ANALYZE_ACTION)",
+          "ENABLE_PREVIEWS" : "NO",
+          "RUN_CLANG_STATIC_ANALYZER" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

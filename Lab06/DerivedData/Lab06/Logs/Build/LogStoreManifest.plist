@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>87310538-E228-4FCA-8F66-50D4433D42EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87310538-E228-4FCA-8F66-50D4433D42EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab06 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab06</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze Lab06</string>
+			<key>timeStartedRecording</key>
+			<real>703387590.20955396</real>
+			<key>timeStoppedRecording</key>
+			<real>703387591.13343096</real>
+			<key>title</key>
+			<string>Analyze Lab06</string>
+			<key>uniqueIdentifier</key>
+			<string>87310538-E228-4FCA-8F66-50D4433D42EF</string>
+		</dict>
+		<key>880A33F5-3F49-4654-B4D6-6229B6C2E138</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>880A33F5-3F49-4654-B4D6-6229B6C2E138.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab06 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab06</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze Lab06</string>
+			<key>timeStartedRecording</key>
+			<real>703387621.13198304</real>
+			<key>timeStoppedRecording</key>
+			<real>703387621.82367802</real>
+			<key>title</key>
+			<string>Analyze Lab06</string>
+			<key>uniqueIdentifier</key>
+			<string>880A33F5-3F49-4654-B4D6-6229B6C2E138</string>
+		</dict>
+		<key>930D18C3-5C3B-4E2C-9886-346552831119</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>930D18C3-5C3B-4E2C-9886-346552831119.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab06 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab06</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze Lab06</string>
+			<key>timeStartedRecording</key>
+			<real>703387802.63579404</real>
+			<key>timeStoppedRecording</key>
+			<real>703387802.761904</real>
+			<key>title</key>
+			<string>Analyze Lab06</string>
+			<key>uniqueIdentifier</key>
+			<string>930D18C3-5C3B-4E2C-9886-346552831119</string>
+		</dict>
+		<key>BB41D538-C969-4394-BC31-1F26038BD312</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB41D538-C969-4394-BC31-1F26038BD312.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab06 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab06</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze Lab06</string>
+			<key>timeStartedRecording</key>
+			<real>703387674.843243</real>
+			<key>timeStoppedRecording</key>
+			<real>703387674.93778396</real>
+			<key>title</key>
+			<string>Analyze Lab06</string>
+			<key>uniqueIdentifier</key>
+			<string>BB41D538-C969-4394-BC31-1F26038BD312</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

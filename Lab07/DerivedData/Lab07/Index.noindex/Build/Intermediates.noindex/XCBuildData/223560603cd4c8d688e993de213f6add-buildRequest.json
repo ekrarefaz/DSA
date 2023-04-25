@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "98bb789449680b9834523266b815b71d2351aaafd65e590dfa7674199bfe88b2"
+    }
+  ],
+  "containerPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/Lab07.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/DerivedData/Lab07/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/DerivedData/Lab07/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/DerivedData/Lab07/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/DerivedData/Lab07/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/DerivedData/Lab07/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab07/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

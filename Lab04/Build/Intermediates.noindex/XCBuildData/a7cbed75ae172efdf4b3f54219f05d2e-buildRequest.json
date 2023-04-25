@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1c7680937ff940a92b2f45d57ca668b94d9bdc3dd5b703d62b39037e85028215"
+    }
+  ],
+  "containerPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/Lab04.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/Build/Products",
+      "derivedDataPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/DerivedData/Lab04/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/DerivedData/Lab04/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/Lab04/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
