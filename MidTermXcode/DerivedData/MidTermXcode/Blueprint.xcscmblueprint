@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AF1D53E423ED72E7476C8BF3E3513F3080C32348",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AF1D53E423ED72E7476C8BF3E3513F3080C32348" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1A57EC3F-D984-44E1-B436-6F33169529C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AF1D53E423ED72E7476C8BF3E3513F3080C32348" : "Labs\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MidTermXcode",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MidTermXcode\/MidTermXcode.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ekrarefaz\/DSA.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF1D53E423ED72E7476C8BF3E3513F3080C32348"
+    }
+  ]
+}

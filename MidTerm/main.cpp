@@ -3,8 +3,8 @@
 
 #include <iostream>
 
-#define P1
-//#define P2
+//#define P1
+#define P2
 //#define P3
 
 #ifdef P1
@@ -121,7 +121,6 @@ void runP2()
 		lTable.add( lW_1 );
 		std::cout << "lW_2 = " << lW_2 << std::endl;
 	}
-
 	std::cout << "\nLZWTable test complete." << std::endl;
 }
 
