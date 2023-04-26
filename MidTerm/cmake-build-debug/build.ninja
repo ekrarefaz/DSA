@@ -64,6 +64,12 @@ build CMakeFiles/MidTerm.dir/LZWTable.cpp.o: CXX_COMPILER__MidTerm_Debug /Users/
   OBJECT_DIR = CMakeFiles/MidTerm.dir
   OBJECT_FILE_DIR = CMakeFiles/MidTerm.dir
 
+build CMakeFiles/MidTerm.dir/LZWCompressor.cpp.o: CXX_COMPILER__MidTerm_Debug /Users/ekrar/Swinny/semester4/DSP/Labs/MidTerm/LZWCompressor.cpp || cmake_object_order_depends_target_MidTerm
+  DEP_FILE = CMakeFiles/MidTerm.dir/LZWCompressor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/MidTerm.dir
+  OBJECT_FILE_DIR = CMakeFiles/MidTerm.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target MidTerm
@@ -72,7 +78,7 @@ build CMakeFiles/MidTerm.dir/LZWTable.cpp.o: CXX_COMPILER__MidTerm_Debug /Users/
 #############################################
 # Link the executable MidTerm
 
-build MidTerm: CXX_EXECUTABLE_LINKER__MidTerm_Debug CMakeFiles/MidTerm.dir/main.cpp.o CMakeFiles/MidTerm.dir/PrefixString.cpp.o CMakeFiles/MidTerm.dir/LZWTable.cpp.o
+build MidTerm: CXX_EXECUTABLE_LINKER__MidTerm_Debug CMakeFiles/MidTerm.dir/main.cpp.o CMakeFiles/MidTerm.dir/PrefixString.cpp.o CMakeFiles/MidTerm.dir/LZWTable.cpp.o CMakeFiles/MidTerm.dir/LZWCompressor.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/MidTerm.dir
   POST_BUILD = :

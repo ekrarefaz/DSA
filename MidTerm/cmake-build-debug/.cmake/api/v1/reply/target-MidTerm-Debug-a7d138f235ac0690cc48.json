@@ -54,7 +54,8 @@
 			[
 				0,
 				2,
-				4
+				4,
+				6
 			]
 		}
 	],
@@ -89,7 +90,8 @@
 			[
 				0,
 				2,
-				4
+				4,
+				6
 			]
 		},
 		{
@@ -97,7 +99,8 @@
 			"sourceIndexes" : 
 			[
 				1,
-				3
+				3,
+				5
 			]
 		}
 	],
@@ -129,6 +132,17 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "LZWTable.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "LZWCompressor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "LZWCompressor.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
