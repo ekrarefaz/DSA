@@ -38,10 +38,12 @@ const PrefixString& LZWTable::lookupStart( char aK ) const noexcept{
 }
 
 bool LZWTable::contains( PrefixString& aWK ) const noexcept{
+    // assert that the prefix string is valid argument
     assert(aWK.w() < fInitialCharacters);
     size_t i = fIndex;
     while(i >= aWK.w()){
         if(aWK.w() == fEntries[i].w()){
+            aWK = fEntries[i];
             return true;
         }
         i--;
