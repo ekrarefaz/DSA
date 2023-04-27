@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4AA67E21-8BEF-498D-97A0-348C4CD2B36C</key>
+		<key>4D933313-81BE-4419-851F-224F854358B5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4AA67E21-8BEF-498D-97A0-348C4CD2B36C.xcactivitylog</string>
+			<string>4D933313-81BE-4419-851F-224F854358B5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -28,13 +28,13 @@
 			<key>timeStartedRecording</key>
 			<real>703247166.35943401</real>
 			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
+			<real>703247167.03902996</real>
 			<key>title</key>
 			<string>Build Lab05</string>
 			<key>uniqueIdentifier</key>
-			<string>4AA67E21-8BEF-498D-97A0-348C4CD2B36C</string>
+			<string>4D933313-81BE-4419-851F-224F854358B5</string>
 		</dict>
-		<key>5A0A1B9C-211B-4198-B6AD-FCD070CD45E4</key>
+		<key>72F2B170-06BC-409B-B909-8CA9FC1F6467</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -43,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5A0A1B9C-211B-4198-B6AD-FCD070CD45E4.xcactivitylog</string>
+			<string>72F2B170-06BC-409B-B909-8CA9FC1F6467.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -60,35 +60,7 @@
 			<key>title</key>
 			<string>Build Lab05</string>
 			<key>uniqueIdentifier</key>
-			<string>5A0A1B9C-211B-4198-B6AD-FCD070CD45E4</string>
-		</dict>
-		<key>6EDA70D0-A3B2-450C-B125-505900201944</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6EDA70D0-A3B2-450C-B125-505900201944.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9la3JhclwvU3dpbm55XC9zZW1lc3RlcjRcL0RTUFwvTGFic1wvTGFiMDVcL0xhYjA1Lnhjb2RlcHJvaiJ9</string>
-			<key>timeStartedRecording</key>
-			<real>703247166.35943401</real>
-			<key>timeStoppedRecording</key>
-			<real>703247167.03902996</real>
-			<key>title</key>
-			<string>Build Lab05</string>
-			<key>uniqueIdentifier</key>
-			<string>6EDA70D0-A3B2-450C-B125-505900201944</string>
+			<string>72F2B170-06BC-409B-B909-8CA9FC1F6467</string>
 		</dict>
 		<key>89A6D35D-F3F5-4B9C-999C-71FAAD00ABB5</key>
 		<dict>
@@ -117,6 +89,34 @@
 			<string>Build Lab05</string>
 			<key>uniqueIdentifier</key>
 			<string>89A6D35D-F3F5-4B9C-999C-71FAAD00ABB5</string>
+		</dict>
+		<key>F7B59C8D-ABA4-43FC-BF99-1C88708FD3B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7B59C8D-ABA4-43FC-BF99-1C88708FD3B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9la3JhclwvU3dpbm55XC9zZW1lc3RlcjRcL0RTUFwvTGFic1wvTGFiMDVcL0xhYjA1Lnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>703247166.35943401</real>
+			<key>timeStoppedRecording</key>
+			<real>703247167.03902996</real>
+			<key>title</key>
+			<string>Build Lab05</string>
+			<key>uniqueIdentifier</key>
+			<string>F7B59C8D-ABA4-43FC-BF99-1C88708FD3B3</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "57d306ded5b80f61c16b3a07a7131eb4d738fbe604251633cefe8a11ecde0841"
+    }
+  ],
+  "containerPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/MidTermXcode.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/Build/Products",
+      "derivedDataPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/DerivedData/MidTermXcode/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/DerivedData/MidTermXcode/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ekrar/Swinny/semester4/DSP/Labs/MidTermXcode/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

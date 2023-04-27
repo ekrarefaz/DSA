@@ -6,6 +6,51 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0F487380-3EF2-4E8F-854E-48E0DD1ED3FA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>71610932-0DB3-44DD-BC50-0D2377BA6DB4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MidTermXcode-2023.04.27_21-10-31-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MidTermXcode project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MidTermXcode</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MidTermXcode</string>
+			<key>timeStartedRecording</key>
+			<real>704286631.57144403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MidTermXcode</string>
+			<key>uniqueIdentifier</key>
+			<string>0F487380-3EF2-4E8F-854E-48E0DD1ED3FA</string>
+		</dict>
 		<key>31BE2736-DC8D-4C81-9CBF-A3C41BA6E167</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -50,6 +95,51 @@
 			<string>Run MidTermXcode</string>
 			<key>uniqueIdentifier</key>
 			<string>31BE2736-DC8D-4C81-9CBF-A3C41BA6E167</string>
+		</dict>
+		<key>EBAD8ADE-63E7-431B-BB55-0B6B0FC0DCB6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>03BEE83D-D6F6-47AE-AF40-A68691300269</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MidTermXcode-2023.04.27_21-12-04-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MidTermXcode project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MidTermXcode</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MidTermXcode</string>
+			<key>timeStartedRecording</key>
+			<real>704286724.97175801</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MidTermXcode</string>
+			<key>uniqueIdentifier</key>
+			<string>EBAD8ADE-63E7-431B-BB55-0B6B0FC0DCB6</string>
 		</dict>
 	</dict>
 </dict>

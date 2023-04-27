@@ -21,7 +21,6 @@ void LZWTable::initialize(){
     // loop for the number of initial characters
     for(size_t i = 0; i < fInitialCharacters; i++){
         PrefixString aPrefixString(static_cast<char>(i));
-
         // set the code to its corresponding entry in ASCII table
         aPrefixString.setCode(i);
         fEntries[i] = aPrefixString;
@@ -37,22 +36,18 @@ const PrefixString& LZWTable::lookupStart( char aK ) const noexcept{
     return fEntries[aK];
 }
 
-bool LZWTable::contains( PrefixString& aWK ) const noexcept{
-    // assert that the prefix string is valid argument
-    assert(aWK.w() < fInitialCharacters);
-    size_t i = fIndex;
-    while(i >= aWK.w()){
-        if(aWK.w() == fEntries[i].w()){
+bool LZWTable::contains(PrefixString &aWK) const noexcept {
+    assert(aWK.w() < fIndex);
+    for (int i = aWK.w(); i < fIndex; i++) {
+        if (fEntries[i] == aWK) {
             aWK = fEntries[i];
             return true;
         }
-        i--;
     }
     return false;
 }
-
 void LZWTable::add( PrefixString& aWK ) noexcept{
-    assert(aWK.w() < fInitialCharacters);
+    assert(aWK.w() != static_cast<uint16_t>(-1));
     aWK.setCode(fIndex);
     fEntries[fIndex++] = aWK;
 }

@@ -10,6 +10,7 @@
 		106FBAB029F90134009AE219 /* LZWTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106FBAAC29F90134009AE219 /* LZWTable.cpp */; };
 		106FBAB129F90134009AE219 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106FBAAD29F90134009AE219 /* main.cpp */; };
 		106FBAB229F90134009AE219 /* PrefixString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106FBAAE29F90134009AE219 /* PrefixString.cpp */; };
+		106FBAB829FA8FA4009AE219 /* LZWCompressor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106FBAB729FA8FA4009AE219 /* LZWCompressor.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		106FBAAD29F90134009AE219 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../../MidTerm/main.cpp; sourceTree = "<group>"; };
 		106FBAAE29F90134009AE219 /* PrefixString.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = PrefixString.cpp; path = ../../MidTerm/PrefixString.cpp; sourceTree = "<group>"; };
 		106FBAAF29F90134009AE219 /* PrefixString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrefixString.h; path = ../../MidTerm/PrefixString.h; sourceTree = "<group>"; };
+		106FBAB629FA8FA4009AE219 /* LZWCompressor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LZWCompressor.h; path = ../../MidTerm/LZWCompressor.h; sourceTree = "<group>"; };
+		106FBAB729FA8FA4009AE219 /* LZWCompressor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = LZWCompressor.cpp; path = ../../MidTerm/LZWCompressor.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 		106FBAA329F90118009AE219 /* MidTermXcode */ = {
 			isa = PBXGroup;
 			children = (
+				106FBAB729FA8FA4009AE219 /* LZWCompressor.cpp */,
+				106FBAB629FA8FA4009AE219 /* LZWCompressor.h */,
 				106FBAAC29F90134009AE219 /* LZWTable.cpp */,
 				106FBAAB29F90134009AE219 /* LZWTable.h */,
 				106FBAAD29F90134009AE219 /* main.cpp */,
@@ -129,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				106FBAB829FA8FA4009AE219 /* LZWCompressor.cpp in Sources */,
 				106FBAB129F90134009AE219 /* main.cpp in Sources */,
 				106FBAB229F90134009AE219 /* PrefixString.cpp in Sources */,
 				106FBAB029F90134009AE219 /* LZWTable.cpp in Sources */,

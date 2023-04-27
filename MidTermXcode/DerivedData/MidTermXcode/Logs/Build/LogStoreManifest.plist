@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>3E3308F0-915D-4EBC-8E6B-8712C1937449</key>
+		<key>03BEE83D-D6F6-47AE-AF40-A68691300269</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3E3308F0-915D-4EBC-8E6B-8712C1937449.xcactivitylog</string>
+			<string>03BEE83D-D6F6-47AE-AF40-A68691300269.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -30,15 +30,49 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Analyze MidTermXcode</string>
+			<string>Build MidTermXcode</string>
 			<key>timeStartedRecording</key>
-			<real>704184639.60103703</real>
+			<real>704286724.97194505</real>
 			<key>timeStoppedRecording</key>
-			<real>704184641.81932795</real>
+			<real>704286725.43236899</real>
 			<key>title</key>
-			<string>Analyze MidTermXcode</string>
+			<string>Build MidTermXcode</string>
 			<key>uniqueIdentifier</key>
-			<string>3E3308F0-915D-4EBC-8E6B-8712C1937449</string>
+			<string>03BEE83D-D6F6-47AE-AF40-A68691300269</string>
+		</dict>
+		<key>71610932-0DB3-44DD-BC50-0D2377BA6DB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71610932-0DB3-44DD-BC50-0D2377BA6DB4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MidTermXcode project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MidTermXcode</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MidTermXcode</string>
+			<key>timeStartedRecording</key>
+			<real>704286631.57265401</real>
+			<key>timeStoppedRecording</key>
+			<real>704286632.19187498</real>
+			<key>title</key>
+			<string>Build MidTermXcode</string>
+			<key>uniqueIdentifier</key>
+			<string>71610932-0DB3-44DD-BC50-0D2377BA6DB4</string>
 		</dict>
 		<key>CFDA6034-8471-4D4B-B857-8A5309968A29</key>
 		<dict>
