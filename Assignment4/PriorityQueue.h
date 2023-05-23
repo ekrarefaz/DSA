@@ -99,7 +99,7 @@ private:
 public:
         
     size_t size() const noexcept{
-        return fHeap.size()-1;
+        return fHeap.size();
     }
     
     std::optional<T> front() noexcept
@@ -110,8 +110,9 @@ public:
             fHeap[0] = fHeap.back();
             fHeap.pop_back();
 
-            pushDown();
-
+            if(!fHeap.empty()){
+                pushDown();
+            }
             return std::optional<T>(lResult);
         }
         else{
@@ -121,24 +122,19 @@ public:
     void insert( const T& aPayload, const P& aPriority ) noexcept{
         // use emplace back to construct the Pair in place
         fHeap.emplace_back(aPriority, aPayload);
-        bubbleUp(size());
+        bubbleUp(size() - 1 );
     }
     void update( const T& aPayload, const P& aNewPriority ) noexcept{
         for(size_t index = 0; index < size() ; index++){
             if(fHeap[index].payload == aPayload){
                 P aOldPriority = fHeap[index].priority ;
                 fHeap[index].priority = aNewPriority;
-                if(aNewPriority > aOldPriority){
+                if(aOldPriority < aNewPriority){
                     bubbleUp(index);
                 }
-                else{
+                else if(aOldPriority > aNewPriority)
                     pushDown(index);
                 }
             }
-            else{
-                continue;
-            }
-
         }
-    }
-};
+    };

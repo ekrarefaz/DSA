@@ -41,7 +41,7 @@ int main()
     lPriorityQueue.insert( "To", 7 );
     lPriorityQueue.insert( "be.", 10 );
 
-    lPriorityQueue.update( "be.", 1 );
+    lPriorityQueue.update( "be.", 1);
     
     std::cout << "Fetch " << lPriorityQueue.size() << " elements:" << std::endl;
 
